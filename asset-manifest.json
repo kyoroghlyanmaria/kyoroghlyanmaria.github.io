@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.345d2cb1.css",
+    "main.js": "/static/js/main.74cb2543.js",
+    "static/js/453.1a69a22b.chunk.js": "/static/js/453.1a69a22b.chunk.js",
+    "static/media/MyCustomFont.woff2": "/static/media/MyCustomFont.338c8ca8c4f941c749fc.woff2",
+    "index.html": "/index.html",
+    "main.345d2cb1.css.map": "/static/css/main.345d2cb1.css.map",
+    "main.74cb2543.js.map": "/static/js/main.74cb2543.js.map",
+    "453.1a69a22b.chunk.js.map": "/static/js/453.1a69a22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345d2cb1.css",
+    "static/js/main.74cb2543.js"
+  ]
+}
