@@ -30,7 +30,7 @@ export default function Footer() {
                 </div>
                 <div className={'content_box forth'}>
                     <span>INQUIRIES</span>
-                    <button className="get_quote header_btn white_hovered_btn flex_center button"><a href="/HomePage">GET A
+                    <button className="get_quote header_btn white_hovered_btn flex_center button"><a href="/quote">GET A
                         QUOTE</a>
                         <svg className="get_quote_svg_black" data-bbox="19.5 21.8 161 156.4" viewBox="0 0 200 200"
                              height="200" width="200" xmlns="http://www.w3.org/2000/svg" data-type="shape">

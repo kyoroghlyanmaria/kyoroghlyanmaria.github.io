@@ -104,7 +104,7 @@ export default function OfferSection (){
                     </div>
                 </div>
                 <button className={'get_quote content_btn black_hovered_btn flex_center button'}>
-                    <a href="/HomePage">ALL SERVICES</a>
+                    <a href="/services">ALL SERVICES</a>
                     <svg className={'get_quote_svg_white'} data-bbox="19.5 21.8 161 156.4" viewBox="0 0 200 200"
                          height="200" width="200"
                          xmlns="http://www.w3.org/2000/svg" data-type="shape    ">

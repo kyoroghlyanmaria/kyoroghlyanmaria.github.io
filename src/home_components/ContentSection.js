@@ -46,7 +46,7 @@ export default function ContentSection() {
                 </span>
 
                 <button className="get_quote content_btn black_hovered_btn flex_center button">
-                    <a href="/HomePage">GET A QUOTE</a>
+                    <a href="/quote">GET A QUOTE</a>
                     <svg className="get_quote_svg_white" data-bbox="19.5 21.8 161 156.4" viewBox="0 0 200 200" height="200" width="200" xmlns="http://www.w3.org/2000/svg" data-type="shape">
                         <g>
                             <path d="M180.5 57.7v120.5H64.8v-19.3H147L19.5 35.7l13.4-13.9 128.2 124V57.7h19.4z"></path>

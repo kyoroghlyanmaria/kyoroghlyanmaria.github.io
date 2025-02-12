@@ -765,6 +765,7 @@
 
 .project_card {
     margin-bottom: 1.0416vw;
+    height: 38vw;
     position: relative;
     overflow: hidden;
     border-radius: unset;
@@ -788,14 +789,14 @@
     overflow: hidden;
 }
 
-.project_layer:hover {
-    opacity: 1;
-}
+/*.project_layer:hover {*/
+/*    opacity: 1;*/
+/*}*/
 
 
-.project_card:hover img {
-    transform: scale(1.2);
-}
+/*.project_card:hover img {*/
+/*    transform: scale(1.2);*/
+/*}*/
 
 
 /* project modal section*/
